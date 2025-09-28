@@ -2,6 +2,12 @@
 
 Predicts how long your Anki study session will take and tracks your progress in real-time.
 
+## 📸 Screenshots
+
+| Daily work estimator | Tracking started | Tracking in progress |
+| :---: | :---: | :---: |
+| ![Time estimator](./images/estimation.png) | ![Started tracking](./images/started.png) | ![Tracking in progress](./images/tracking.png) |
+
 ## Features
 - 📊 **Predict Button**: Shows estimated time to complete all today's cards
 - 📚 **Progress Tracker**: Live tracking of cards completed during your session
