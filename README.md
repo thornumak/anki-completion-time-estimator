@@ -1,7 +1,7 @@
-# Anki Completion Time Estimator
+# Anki Daily Review Time Estimator
 
 
-<h4>Estimates how long your Anki study session will take and tracks your progress in real-time.</h4>
+<h4>See how long your daily reviews will take and track your progress in real-time.</h4>
 
 ## Features
 - 📊 **Estimate Button**: Shows estimated time to complete all today's cards
